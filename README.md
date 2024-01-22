@@ -1,1 +1,1 @@
-# gejutsu-gems
+# geijutsu-gems
